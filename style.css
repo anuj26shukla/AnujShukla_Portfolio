@@ -118,7 +118,7 @@ video{
 #page1 p{
     font-size: 20px;
     font-weight: 500;
-    width: 50%;
+    width: 40%;
 }
 #page1 #arrow{
     height:150px;
@@ -245,7 +245,7 @@ video{
     transition: all ease 0.6s;
 }
 #card1{
-    background-image: url(https://cuberto.com/assets/projects/magma/splitshow/1.png)
+    background-image: url(https://cdn.dribbble.com/userupload/14831469/file/still-2b0f8d008ab77eac58e583c01e2919b0.png?format=webp&resize=400x300&vertical=center)
 }
 #card2{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfxFv3yZ4J5rdpLTN77Zx2VulE-3dKldxDeg&s)
